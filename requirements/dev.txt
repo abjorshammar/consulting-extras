@@ -1,0 +1,5 @@
+# Includes the base requirements
+-r base.txt
+
+# Dev packages
+django-debug-toolbar==1.0.1
